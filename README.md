@@ -1,7 +1,7 @@
 # Skin Cancer Detection using Digital Image Processing 
 
 Digital Image Processing is a set of techniques that is used to deal with images. One can enhance images, focus on a particular feature, classify images and so on. 
-In this project, me and Ms. Rashmi S [LinkedIn](https://www.linkedin.com/in/rashmi-s-91ab41170/), worked on Skin Cancer Detection. 
+In this project, me and Ms. Rashmi S ([LinkedIn](https://www.linkedin.com/in/rashmi-s-91ab41170/)), worked on Skin Cancer Detection. 
 
 ## Introduction 
 Cancer is a disease in which the cells multiply uncontrollably and eventually spreads from its origin into other parts of the body. While there is no proven cure for cancer, early detection can help increase chances of combatting cancer. Skin cancer is the cancer on the outermost layer of the skin (the epidermis). 
