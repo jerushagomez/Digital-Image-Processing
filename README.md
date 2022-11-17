@@ -27,7 +27,7 @@ To predict what kind of pigmented lesion is present in an image. This will help 
 
 ## Methodology in Brief 
 - Data loading and pre-processing (missing values, label encoding)
-- EDD is performed. 
+- EDA is performed. 
 - Balancing of the data.
 - Conversion of the JPG images to RGB pixel data.
 - Model is built and fitted. 
